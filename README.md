@@ -1,5 +1,6 @@
 # load-balancing-apps
 
+![Example of load balancing](https://codeforgeek.com/wp-content/uploads/screenshot-www.draw_.io-2019.10.16-16_58_18.png)
 ### What is HAProxy?
 HAProxy (High Availability Proxy) is a TCP/HTTP load balancer and proxy server that allows a webserver to spread incoming requests across multiple endpoints
 
